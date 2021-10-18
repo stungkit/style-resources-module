@@ -52,7 +52,7 @@
   ],
   "engines": {
     "node": ">=v10.24.1",
-    "npm": ">=6.14.14"
+    "npm": ">=6.14.15"
   },
   "jest": {
     "testEnvironment": "node",
@@ -67,26 +67,26 @@
     "sass-resources-loader": "^2.2.4"
   },
   "devDependencies": {
-    "@commitlint/cli": "^13.1.0",
-    "@commitlint/config-conventional": "^13.1.0",
-    "@nuxt/types": "^2.15.7",
+    "@commitlint/cli": "^13.2.1",
+    "@commitlint/config-conventional": "^13.2.0",
+    "@nuxt/types": "^2.15.8",
     "@nuxtjs/eslint-config-typescript": "^6.0.1",
-    "@types/jest": "^27.0.0",
+    "@types/jest": "^27.0.2",
     "codecov": "^3.8.3",
     "eslint": "^7.32.0",
     "get-port": "^5.1.1",
-    "husky": "^7.0.1",
-    "jest": "^27.0.6",
+    "husky": "^7.0.2",
+    "jest": "^27.3.0",
     "jsdom": "^16.7.0",
-    "less": "^4.1.1",
+    "less": "^4.1.2",
     "less-loader": "^4.1.0",
     "mathsass": "^0.11.0",
-    "nuxt-edge": "^2.16.0-27132492.cdbea391",
-    "sass": "^1.37.5",
+    "nuxt-edge": "^2.16.0-27226092.034b9901",
+    "sass": "^1.43.2",
     "sass-loader": "^7.3.1",
-    "standard-version": "^9.3.1",
-    "stylus": "^0.54.8",
+    "standard-version": "^9.3.2",
+    "stylus": "^0.55.0",
     "stylus-loader": "^3.0.2",
-    "typescript": "^4.3.5"
+    "typescript": "^4.4.4"
   }
 }
